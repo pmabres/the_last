@@ -1,0 +1,9 @@
+# Unity .gitignore file.
+JackGame/.DS_Store
+JackGame/Library
+JackGame/Temp
+JackGame/*.csproj
+JackGame/*.sln
+JackGame/*.userprefs
+JackGame/*.pidb
+JackGame/*.unityproj
